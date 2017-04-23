@@ -1,12 +1,12 @@
 body{
 	font-size: 14px;
-	line-height: 1.5em;
+	line-height: auto;
 	color: #000000;
 	font-weight: bold;
 	font-family: "PT Sans Narrow", "Arial", sans-serif;
 }
 
-h1 .title{
+h1.title{
 	font-size: 30px;
 	line-height: 1.5em;
 	color: #000000;
@@ -14,7 +14,7 @@ h1 .title{
 	font-family: "PT Sans Narrow", "Arial", sans-serif;
 }
 
-h2 .title{
+h2.title{
 	font-size: 24px;
 	line-height: 1.5em;
 	color: #000000;
